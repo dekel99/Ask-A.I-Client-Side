@@ -1,0 +1,11 @@
+.summery-container{
+    margin-top: 20px;
+}
+
+.summery{
+    /* width: 400px; */
+    margin-top: 10px;
+    height: 200px;
+    /* margin: auto; */
+    overflow-y:scroll;
+}
